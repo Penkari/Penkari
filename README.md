@@ -24,4 +24,4 @@ Estudante de Engenharia da Computação | Entusiasta de Inteligência Artificial
 
 ## Projeto Mais Recente
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Penkari&repo=Graficos-Gradientes&bg_color=fff&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D&text_color=E94D)](https://github.com/Penkari/Graficos-Gradientes)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Penkari&repo=Graficos-Gradientes&bg_color=fff&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D&text_color=E94D)](https://github.com/Penkari/Algoritmo-Preditivo-com-Keras)
