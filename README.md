@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Eduardo Luiz
 
-🎓 Estudante de Tecnologia em Inteligência Artificial
-🧠 Especialista em Engenharia e Desenvolvimento de Inteligência Artificial
-🔬 Explorador de modelos generativos, aprendizado por reforço e arquiteturas híbridas
+🎓 Estudante de Tecnologia em Inteligência Artificial  
+🧠 Especialista em Engenharia e Desenvolvimento de Inteligência Artificial  
+🔬 Explorador de modelos generativos, aprendizado por reforço e arquiteturas híbridas  
 
 ---
 
